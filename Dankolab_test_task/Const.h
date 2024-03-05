@@ -1,6 +1,6 @@
 #pragma once
 
-const int window_start_x = 0, window_start_y = 0, window_start_width = 640, window_start_height = 512;
+const int window_start_x = 0, window_start_y = 0, window_start_width = 1280, window_start_height = 1024;
 const int BG_color = 0x666666, button_start_color = 0xAAAAAA, button_start_text_color = 0x222222;
 
 const size_t start_columns = 16, start_lines = 10, start_colors_quan = 3;
